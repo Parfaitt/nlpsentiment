@@ -30,8 +30,8 @@ def LemNormalize(text):
 
 st.sidebar.header("Informations")
 st.sidebar.write('''
-# Application prédiction des comportement des clients
-Cet ensemble de données est utilisé pour prédire le comportement des clients
+# Application d'analyse des comportements clients
+Cet ensemble de données est utilisé pour prédire le comportement des clients:Cas des Films Netflix
 
 Auteur: Parfait Tanoh N'goran
 ''')
